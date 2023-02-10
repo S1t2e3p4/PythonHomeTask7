@@ -2,3 +2,78 @@
 10/02/2023 16:25:Logging journal printed in terminal
 10/02/2023 16:29:Phonebook preview in html-format reguested by user
 10/02/2023 16:29:Phonebook preview requested by user
+10/02/2023 16:42:Info about contact requested by user
+10/02/2023 16:47:Contact addition requested by user
+10/02/2023 16:47:New contact added
+10/02/2023 16:48:Phonebook preview in html-format reguested by user
+10/02/2023 16:48:Phonebook preview requested by user
+10/02/2023 16:51:Contact addition requested by user
+10/02/2023 16:51:New contact added
+10/02/2023 16:51:Contact addition requested by user
+10/02/2023 16:52:New contact added
+10/02/2023 16:53:Contact addition requested by user
+10/02/2023 16:53:New contact added
+10/02/2023 16:54:Info about contact requested by user
+10/02/2023 16:54:Provided info about contact
+10/02/2023 16:54:Contact addition requested by user
+10/02/2023 16:55:New contact added
+10/02/2023 16:55:Contact addition requested by user
+10/02/2023 16:56:New contact added
+10/02/2023 16:56:Logging journal unload in .csv file requested by user
+10/02/2023 16:56:Logging journal unload in .csv file
+10/02/2023 16:57:Logging journal preview requested by user
+10/02/2023 16:57:Logging journal printed in terminal
+10/02/2023 16:57:Phonebook preview in csv-format reguested by user
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:Phonebook preview requested by user
+10/02/2023 16:57:Phonebook unloaded
+10/02/2023 16:57:File .csv unloaded
