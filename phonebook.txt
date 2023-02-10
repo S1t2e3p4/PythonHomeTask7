@@ -1,0 +1,39 @@
+Surname: Пупкин
+Name: Пуп
+Telephone: 89280000001
+Comment: mobile
+
+Surname: Иванов
+Name: Иван
+Telephone: 89280000002
+Comment: mobile
+
+Surname: Петров
+Name: Пётр
+Telephone: 89180000001
+Comment: mobile
+
+Surname: Сидоров
+Name: Сидор
+Telephone: 89180000002
+Comment: mobile
+
+Surname: Кузнецов
+Name: Кузя
+Telephone: 89090000001
+Comment: mobile
+
+Surname: Игорев
+Name: Игорь
+Telephone: 89090000002
+Comment: mobile
+
+Surname: Васильев
+Name: Василий
+Telephone: 89030000001
+Comment: mobile
+
+Surname: Степанов
+Name: Степан
+Telephone: 89030000002
+Comment: mobile
