@@ -131,3 +131,5 @@
 10/02/2023 17:01:Phonebook preview requested by user
 10/02/2023 17:01:Phonebook unloaded
 10/02/2023 17:01:File .html unloaded
+10/02/2023 17:03:Contact import from file requested by user
+10/02/2023 17:10:New contact imported from a file
